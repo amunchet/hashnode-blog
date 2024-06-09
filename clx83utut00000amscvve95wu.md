@@ -4,6 +4,7 @@ datePublished: Sun Jun 09 2024 22:17:49 GMT+0000 (Coordinated Universal Time)
 cuid: clx83utut00000amscvve95wu
 slug: homelab-introduction
 canonical: http://chetenright.com/content/dist/blog/01-homelab-introduction/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717971764152/205ea5d6-b1e8-4d74-b206-67a59ad69190.jpeg
 tags: homelab
 
 ---

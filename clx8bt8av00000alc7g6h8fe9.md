@@ -4,6 +4,7 @@ datePublished: Mon Jun 10 2024 02:00:32 GMT+0000 (Coordinated Universal Time)
 cuid: clx8bt8av00000alc7g6h8fe9
 slug: singular
 canonical: http://chetenright.com/content/dist/blog/singular/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717985024632/451e9be1-7f65-407c-9cde-c2058f52f175.jpeg
 tags: python, anime
 
 ---
